@@ -1,0 +1,16 @@
+{
+"companyName": "TippyTap",
+"productName": "Trajectory Aimer 2D - Demo",
+"productVersion": "1.0",
+"dataUrl": "Trajectory Aimer 2D Demo.data.unityweb",
+"wasmCodeUrl": "Trajectory Aimer 2D Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Trajectory Aimer 2D Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
